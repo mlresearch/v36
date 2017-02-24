@@ -1,0 +1,54 @@
+# Site settings
+# Auto generated from v36.bib
+---
+booktitle: 'Proceedings of the 3rd International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications'
+title: 'Proceedings of the 3rd International Workshop on Big Data, Streams and Heterogeneous
+  Source Mining: Algorithms, Systems, Programming Models and Applications'
+volume: 36
+year: '2014'
+start: 2014-08-24
+end: 2014-08-24
+published: 2014-08-13
+shortname: BigMine
+sections:
+- name: preface
+  title: Front Matter
+- name: default
+  title: Accepted Papers
+layout: proceedings
+id: BIGMINE-2014
+month: 0
+abstract: ''
+editor:
+- given: Wei
+  family: Fan
+- given: Albert
+  family: Bifet
+- given: Qiang
+  family: Yang
+- given: Philip S.
+  family: Yu
+email: ''
+description: 'Proceedings of the 3rd International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications,
+  New York, New York, USA'
+url: http://proceedings.mlr.press
+baseurl: "/v36"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v36
+conference:
+  name: 'Proceedings of the 3rd International Workshop on Big Data, Streams and Heterogeneous
+    Source Mining: Algorithms, Systems, Programming Models and Applications'
+  url: http://bigdata-mining.org/bigmine-14/
+  location: New York, New York, USA
+  dates:
+  - 2014-08-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
