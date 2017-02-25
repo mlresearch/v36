@@ -44,6 +44,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 24 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v36"
 twitter_username: mlresearch
@@ -53,6 +54,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v36
+bibtex_copy: true
 email: ''
 conference:
   name: 'Proceedings of the 3rd International Workshop on Big Data, Streams and Heterogeneous
