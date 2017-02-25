@@ -18,6 +18,8 @@ series: Proceedings of Machine Learning Research
 id: BIGMINE-2014
 month: 0
 abstract: ''
+tex_title: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
+  Systems, Programming Models and Applications'
 editor:
 - given: Wei
   family: Fan
