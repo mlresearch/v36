@@ -20,6 +20,7 @@ month: 0
 abstract: ''
 tex_title: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
   Systems, Programming Models and Applications'
+cycles: false
 editor:
 - given: Wei
   family: Fan
@@ -54,9 +55,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v36
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: 'Proceedings of the 3rd International Workshop on Big Data, Streams and Heterogeneous
