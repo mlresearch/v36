@@ -69,6 +69,7 @@ conference:
   location: New York, New York, USA
   dates:
   - 2014-08-24
+  number: 3
 analytics:
   google:
     tracking_id: UA-92432422-1
