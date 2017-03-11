@@ -17,7 +17,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: BIGMINE-2014
 month: 0
-abstract: ''
 tex_title: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
   Systems, Programming Models and Applications'
 cycles: false
@@ -48,7 +47,7 @@ description: |
 date_str: 24 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v36"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -60,6 +59,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -74,3 +74,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v36.bib
+---
